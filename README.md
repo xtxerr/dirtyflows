@@ -1,5 +1,7 @@
 # nfdump2prometheus
-Netflow (v9) ASN-based (nextas, prevas) statistics to Prometheus Exporter
+Nfdump based Prometheus netflow exporter. 
+
+Creates ASN/peer-based (netflow v9) traffic statistics.
 
 
 # License and Copyright
