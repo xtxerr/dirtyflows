@@ -1,4 +1,4 @@
-# nfdump2prometheus
+# dirtyflows
 Nfdump based Prometheus NetFlow (v9) exporter. 
 
 Creates ASN/peer-based traffic statistics, which can be gathered with your favorite graphing/dashboard suite, eg. Grafana.
