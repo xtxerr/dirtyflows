@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-# nfdump parser to prometheus pushgateway
-
 use warnings;
 use strict;
 use feature ':5.10';
